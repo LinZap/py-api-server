@@ -12,7 +12,7 @@
 ```
 git clone https://github.com/LinZap/py-api-server.git
 cd py-api-server
-py pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Launch
