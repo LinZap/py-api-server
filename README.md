@@ -6,7 +6,8 @@
 
 ## Build
 
-安裝相依套件，在高於`Python 3.2` 或是 `Python 2.x` 的環境可以正常執行。
+安裝相依套件，在高於`Python 3.2` 的環境可以正常執行。
+
 
 ```
 git clone https://github.com/LinZap/py-api-server.git
