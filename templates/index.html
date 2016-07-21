@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Hi Flask</title>
+</head>
+<body>
+
+<h1>Hi Flask</h1>
+<p>this is a API server !!</p>
+
+<hr>
+
+
+<h2>TEST URI</h2>
+<ul>
+	{% for url in urls %}
+        <li><a href="{{ url }}">{{ url }}</a></li>
+    {% endfor %}
+</ul>
+
+
+<hr>
+
+<address>By Zap</address>
+
+</body>
+</html>
